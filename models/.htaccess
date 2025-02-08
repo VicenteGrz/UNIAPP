@@ -1,0 +1,3 @@
+<Files UserModel.php>
+    Deny from all
+</Files>

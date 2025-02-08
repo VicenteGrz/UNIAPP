@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/digitalfemsa/femsa-php.git"
+    }
+  ],
+  "require": {
+    "digitalfemsa/femsa-php": "*@dev"
+  }
+}
